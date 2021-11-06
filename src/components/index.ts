@@ -1,1 +1,1 @@
-export { default as AssetLoader } from './asset-loader.svelte';
+export { default as AssetLoader } from './asset-loader.vue';

@@ -1,7 +1,6 @@
-import App from './app.svelte'
+import { createApp } from 'vue';
+import App from './app.vue';
+import router from './router';
+import store from './store';
 
-const app = new App({
-  target: document.getElementById('app')
-})
-
-export default app
+createApp(App).use(store).use(router).mount('#app');
