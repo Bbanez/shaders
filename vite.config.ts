@@ -11,7 +11,7 @@ export default defineConfig({
     svelte(),
   ],
   optimizeDeps: {
-    include: ['svemir'],
+    include: [],
 
   },
 });

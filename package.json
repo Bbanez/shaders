@@ -21,6 +21,7 @@
     "svelte": "^3.44.0",
     "svelte-check": "^2.2.7",
     "svelte-preprocess": "^4.9.8",
+    "svemir": "^0.0.1-alpha1",
     "three": "^0.138.0",
     "tsconfig-paths": "^3.12.0",
     "tslib": "^2.3.1",
